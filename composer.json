@@ -1,0 +1,18 @@
+{
+    "name": "rob/consumocurpdev",
+    "description": "consumo php de una api espesifica",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rob\\Consumocurpdev\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RobertoHerrOrt",
+            "email": "97401440+RobertoHerrOrt@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
