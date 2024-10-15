@@ -4,6 +4,8 @@ namespace rob\consumocurpdev;
 
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Foundation\Validation\ValidatesRequests;
+use Exception;
+use Illuminate\Support\Facades\Log;
 
 
 class consumocurpdev{
